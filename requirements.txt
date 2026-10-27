@@ -4,3 +4,5 @@ openai
 langchain-Groq
 langchain-community
 bs4
+langchain-docling
+ipykernel
