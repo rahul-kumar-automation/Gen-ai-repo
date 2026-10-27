@@ -1,0 +1,6 @@
+langchain
+python-dotenv
+openai
+langchain-Groq
+langchain-community
+bs4
