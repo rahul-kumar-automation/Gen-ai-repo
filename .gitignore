@@ -10,7 +10,7 @@ wheels/
 .venv
 venv/
 env/
-.env/
+.env.*
 
 # IDEs
 .vscode/
